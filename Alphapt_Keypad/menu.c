@@ -80,7 +80,6 @@ int main(void)
 
 
 
-
 		if(alphKey != -1 )
 		{
 

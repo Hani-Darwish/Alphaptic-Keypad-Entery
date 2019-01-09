@@ -55,7 +55,7 @@ void EF_KEYPAD_Init();
 int EF_KeypadRead();
 
 
-char EF_Keypad_AlphpRead();
-char Alphaptic_Map(char keyPressed,char pressedCount);
+
+
 
 #endif /* F94_KEYPAD_H_ */
